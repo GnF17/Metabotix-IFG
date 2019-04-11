@@ -1,2 +1,2 @@
-# metabotic-IFG
+# metabotix-IFG
 Repository from metabotic team
