@@ -8,7 +8,7 @@ int sensorE = A0;  //Sensor Esquerda
 int sensorCE = A1;  //Sensor Centro 
 int sensorD = A2;  //Sensor Direita
 
-int valorCorte = 999;
+int valorCorte = 500;
 int vel = 150;
 
 int valorCE, valorE, valorD = 0;
@@ -18,7 +18,6 @@ void setup(){
   pinMode(5, OUTPUT);
   pinMode(6, OUTPUT);
   pinMode(7, OUTPUT);
-  
 }
 
 void loop(){
