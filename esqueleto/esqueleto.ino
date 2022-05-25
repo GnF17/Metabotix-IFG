@@ -43,7 +43,7 @@ void loop() {
   valorSensor = digitalRead(sensor);
   Serial.println(valorSensor);
   //if (valorBotao==HIGH){
-    if(valorSensor==1){
+    if(valorSensor==1,){
       digitalWrite(led, HIGH);
       abrir();
       digitalWrite(led, LOW);
