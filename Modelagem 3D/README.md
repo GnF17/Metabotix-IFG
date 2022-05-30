@@ -1,3 +1,3 @@
 Os arquivos STL são melhores pra serem usados no tinkercad ou pra impressão deles exatamente do jeito que estão. Os gcode estão fatiados já, então é só imprimir, o stl deles estão na pasta do stl. Os f3d só abrem no Fusion 360, que é um programa da Autodesk. Ele é pago, mas o IF deve ter acesso a ele com o email institucional, qualquer coisa só tentem fazer o cadastro e mandar a declaração que eles pedem. 
 
-Vale muito a pena aprender a mexer no Fusion. Ele é um software profissional e dá pra fazer absolutamente tudo, além de que ele tem vários formatos pra salvar o arquivo. Ele é bem chatinho de começar a aprender, mas quando aprender é de boas.
+Vale muito a pena aprender a mexer no Fusion. Ele é um software profissional e dá pra fazer absolutamente tudo, além de que, ele tem vários formatos pra salvar o arquivo. Ele é bem chatinho de começar a aprender, mas quando aprende é de boas.
